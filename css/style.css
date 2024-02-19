@@ -13,6 +13,11 @@ a {
     text-decoration: none;
 }
 
+img {
+    max-width: 100%;
+    display: block;
+}
+
 .header-bg {
     background-color: #000000;
 }
@@ -85,4 +90,9 @@ a {
     .header a:after {
         display: none;
     }
+}
+
+.introducao-bg {
+    background: #000000;
+    
 }
