@@ -56,6 +56,8 @@ img {
     padding: 16px 0px;
     font-size: 18px;
     position: relative;
+    font-family: "Poppins";
+    font-weight: 400;
 
 }
 
@@ -142,6 +144,8 @@ img {
     margin-bottom: 32px;
     font-size: 64pxx;
     line-height: 1.125;
+    font-family: "Poppins";
+    font-weight: 600;
 }
  
 .introducao p {
@@ -149,6 +153,8 @@ img {
     font-size: 24px;
     line-height: 1.5;
     color: #b2b2b2;
+    font-family: "Roboto";
+    font-weight: 400;
 }
 
 .introducao a {
@@ -161,7 +167,8 @@ img {
     color: #334400;
     font-size: 18px;
     line-height: 1.33;
-    font-weight: bold;
+    font-family: "Poppins";
+    font-weight: 600;
 
 }
 
